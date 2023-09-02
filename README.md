@@ -14,5 +14,5 @@ Por ultimo pero no menos importante, esta la documentacion tecnica en cada uno d
 
 ## Autor
 
-| [<img src="" width=115><br><sub>Jorge Ramos</sub>](https://github.com/sonic-alex2) |
+| [<img src="" width=115><br><sub>Jorge Ramos</sub>](https://avatars.githubusercontent.com/u/8519258?v=4) |
 | :---: |
